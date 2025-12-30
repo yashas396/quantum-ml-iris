@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![PennyLane](https://img.shields.io/badge/PennyLane-0.33+-green.svg)](https://pennylane.ai)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/quantum-ml-iris/blob/main/Quantum_ML_Iris_Complete.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yashas396/quantum-ml-iris/blob/main/Quantum_ML_Iris_Complete.ipynb)
 
 A comprehensive exploration of **Quantum Machine Learning** techniques applied to the classic Iris flower classification problem. This project demonstrates multiple QML algorithms, noise simulation, and benchmarking against classical methods.
 
@@ -91,7 +91,7 @@ Click the "Open in Colab" badge above - no installation needed!
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quantum-ml-iris.git
+git clone https://github.com/yashas396/quantum-ml-iris.git
 cd quantum-ml-iris
 
 # Create virtual environment (optional but recommended)
